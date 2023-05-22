@@ -2,7 +2,6 @@ from __future__ import division
 from math import sin, cos, asin, atan, radians, degrees, pi, sqrt
 from functools import partial
 import rhinoscriptsyntax as rs
-from helpers import generate_gear_crv, generate_pitch_circle_crv
 
 __commandname__ = "InvoluteGear"
 
